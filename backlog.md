@@ -9,11 +9,11 @@ This is the backlog for the _backlog.txt_ project. We eat our own dog food.
     to ask for preliminary feedback from a few friends.
 
 xxx Mimimal version of the `backlog` tool  
-    Just dumps Features and Stories to the console, in color
+    Just dumps Features and Stories to the console, in color  
 xxx Put Python package on PyPy as version 0.0.1  
-    Taz will take care of this
+    Taz will take care of this  
 xxx Put version 0.1 of the specs on the wiki  
-    Discuss these with Taz
+    Discuss these with Taz  
 
 
 ##MVP
@@ -24,7 +24,7 @@ xxx Put version 0.1 of the specs on the wiki
 xxx The console dump includes Comments  
 xxx The console dump includes Properties  
 xx The console dump includes Markdown formatting  
-   Maybe only for some elements, depending on which Markdown library we can find.
+   Maybe only for some elements, depending on which Markdown library we can find.  
 xxx `backlog -h` prints usage help  
 xxx Explicit error message (with help and link) if no backlog file is found  
 xxx `backlog init` creates an empty backlog  
@@ -45,7 +45,7 @@ xx  Use `bl` as a shortctut to `backlog`
 
 xxx Make the command-line toolset accessible as a Python library  
 xxx Publish scripting example on Wiki  
-    For example, show how to calculate the total story points in the backlog
+    For example, show how to calculate the total story points in the backlog  
 
 
 ##Advanced Printing
@@ -78,7 +78,7 @@ xx  `backlogfilter mandatory` only shows the Mandatory stuff
 xxx  Syntax file for vim  
 xxx  Syntax file for one popular text editor  
 xx  Syntax files for other text editors  
-    Decide which ones
+    Decide which ones  
 
 
 ##Multiple Backlogs
