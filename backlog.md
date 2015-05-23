@@ -10,6 +10,7 @@ This is the minimal stuff we need to check that the idea actually works.
 xxx Basic version of the `bl` tool (just dumps the backlog to the console, in color)  
 xx  `bl -h` prints command-line help  
 xxx Release Python package  
+
     * assigned to: Taz  
 xxx Version 0.1 of the specs  
 
@@ -28,7 +29,7 @@ x  The help text explains User Story colors
 
 xxx  `bl csv` exports to a CSV file  
 xx  `bl excel` exports to an Excel file  
-xx  `bl html` exports nicely formatted HTML
+xx  `bl html` exports nicely formatted HTML  
 xx  `bl open --<format>` attempts to open the format in the associated application  
 
 
